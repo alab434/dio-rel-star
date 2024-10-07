@@ -26,6 +26,4 @@ Trimestre = QUARTER('D_Calendário'[Data])
 10. Verificação das Relações
 
 ---
-
-![Solução](solução desafio -- Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX.png)
-
+![Solução](https://github.com/alab434/dio-rel-star/blob/main/solu%C3%A7%C3%A3o%20desafio%20--%20Modelando%20um%20Dashboard%20de%20E-commerce%20com%20Power%20BI%20Utilizando%20F%C3%B3rmulas%20DAX.png)
