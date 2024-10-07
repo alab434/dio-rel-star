@@ -27,4 +27,5 @@ Trimestre = QUARTER('D_Calendário'[Data])
 
 ---
 
-!(Solução)[solução desafio -- Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX.png]
+![Solução](solução desafio -- Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX.png)
+
